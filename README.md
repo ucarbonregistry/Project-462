@@ -42,118 +42,114 @@ VSV Renewables Private Limited /Mahindra & Mahindra Ltd (Igatpuri)/651.09/ 23-06
 ___________________
 Daishi Patona Private Limited/Lumax Industries Ltd (Chakan,Pune)/602.23/ 08-11-2019
 ______________
-VSV Renewables Private
-Limited AIIMS (Bhopal)
-600.65 16-08-2021
-VSV Renewables Private
-Limited Nahars Engineering Pvt Ltd
-548.46 28-04-2019
-VSV Renewables Private
-Limited Bridgestone India Pvt Ltd
-4,000.00 14-11-2019
-VSV Renewables Private
-Limited MSS India Pvt Ltd (Nashik)
-439.82 07-10-2021
-Fourth Partner Energy
-Private Limited CHRI (Gwalior)
-422.50 25-08-2019
-VSV Renewables Private
-Limited Raychem RPG Pvt Ltd (Vasai)
-414.40 21-01-2021
-VSV Renewables Private
-Limited Metro Cash & Carry
-414.15 19-10-2019
-VSV Renewables Private
-Limited RPK India Pvt Ltd
-413.00 07-06-2019
-FPEL Trinity Energy
-Private Limited
-Mahindra Holidays & Resorts
-Pvt Ltd (Club Mahindra)
-
-403.50 13-03-2018
-Daishi Patona Private
-Limited D Mart (Wardha)
-399.96 19-01-2022
-Daishi Patona Private
-Limited D Mart (Adgaon)
-378.00 02-03-2022
-VSV Renewables Private
-Limited Nagpur Metro (All)
-312.68 17-10-2018
-Daishi Patona Private Rallis India Ltd 27-04-2021
-© Universal CO2 Emission And Offset Registry Private Ltd
-Limited 307.20
-Daishi Patona Private
-Limited D Mart (Yavatmal)
-290.10 15-03-2021
-VSV Renewables Private
-Limited Nagpur Metro (All)
-273.00 17-10-2018
-Daishi Patona Private
-Limited D Mart (Wai)
-272.88 19-01-2021
-VSV Renewables Private
-Limited Garg Acrylics Limited
-2,778.00 24-05-2019
-VSV Renewables Private
-Limited MANIT
-250.25 01-11-2018
+VSV Renewables Private Limited/ AIIMS (Bhopal)/600.65/ 16-08-2021
+____________
+VSV Renewables Private Limited/ Nahars Engineering Pvt Ltd/548.46/ 28-04-2019
+___________
+VSV Renewables Private Limited/ Bridgestone India Pvt Ltd 4,000.00/ 14-11-2019
+__________
+VSV Renewables Private Limited/MSS India Pvt Ltd (Nashik)/439.82 /07-10-2021
+________
+Fourth Partner Energy Private Limited/ CHRI (Gwalior)/422.50/ 25-08-2019
+____________
+VSV Renewables Private Limited/ Raychem RPG Pvt Ltd (Vasai)/414.40/ 21-01-2021
+________
+VSV Renewables Private Limited /Metro Cash & Carry/414.15/ 19-10-2019
+___________
+VSV Renewables Private Limited /RPK India Pvt Ltd/413.00 /07-06-2019
+________
+FPEL Trinity Energy Private Limited /Mahindra Holidays & Resorts Pvt Ltd (Club Mahindra)/403.50/ 13-03-2018
+_____________
+Daishi Patona Private Limited / D Mart (Wardha)/399.96/ 19-01-2022
+________
+Daishi Patona Private Limited/ D Mart (Adgaon)/378.00/ 02-03-2022
+__________
+VSV Renewables Private Limited/ Nagpur Metro (All)/312.68/ 17-10-2018
+________
+Daishi Patona Private Limited /Rallis India Ltd /307.20/27-04-2021 
+___________
+Daishi Patona Private Limited/ D Mart (Yavatmal)/290.10/ 15-03-2021
+___________
+VSV Renewables Private Limited /Nagpur Metro (All)/273.00 /17-10-2018
+______________
+Daishi Patona Private Limited/ D Mart (Wai)/272.88/ 19-01-2021
+_______________
+VSV Renewables Private Limited/ Garg Acrylics Limited/2,778.00 /24-05-2019
+__________
+VSV Renewables Private Limited/ MANIT/250.25/ 01-11-2018
+____________
 VSV Renewables Private
 Limited Big Basket Bhiwandi
 230.34 12-10-2020
+_________
 VSV Renewables Private
 Limited Metro Cash & Carry (Indore)
 221.10 27-09-2021
+__________
 FPEL Cosmic Private
 Limited Roop Polymers
 217.10 09-02-2020
+__________
 Daishi Patona Private
 Limited D Mart (Jalgaon)
 197.34 28-01-2020
+_______
 Daishi Patona Private
 Limited D Mart (Mandsaur)
 194.40 14-10-2021
+________
 Daishi Patona Private
 Limited D Mart (Zirakpur Phase-II)
 99.00 05-02-2022
+______
 Daishi Patona Private
 Limited D Mart (Zirakpur DC)
 44.40 01-04-2022
+_________
 Daishi Patona Private
 Limited D Mart (Satara)
 181.35 04-02-2019
+_________
 Daishi Patona Private
 Limited D Mart (Jalna)
 177.45 25-02-2019
+_________
 Daishi Patona Private
 Limited D Mart (Osmanabad)
 177.25 20-09-2019
+_________
 Daishi Patona Private
 Limited D Mart (Latur)
 165.00 13-08-2020
+_____________
 VSV Renewables Private
 Limited NISM (Khalapur)
 152.10 01-11-2018
+______
 Daishi Patona Private
 Limited D Mart (Karjat)
 148.20 11-02-2019
+_______
 Daishi Patona Private
 Limited D Mart (Barnala)
 148.00 08-09-2020
+__________
 Daishi Patona Private
 Limited D Mart (Mhow)
 146.88 24-01-2022
+______
 Daishi Patona Private
 Limited D Mart (Hinjewadi)
 135.11 22-03-2019
-© Universal CO2 Emission And Offset Registry Private Ltd
+_______________
 4PE Distributed Solar
 Services Private Limited Birlasoft Limited
 125.06 25-12-2016
+____________
 Daishi Patona Private
 Limited D Mart (Nipaniya)
 118.80 03-08-2020
+_________
 Daishi Patona Private
 Limited D Mart (Airoli)
 114.84 07-09-2020

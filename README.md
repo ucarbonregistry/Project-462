@@ -1,5 +1,7 @@
 # Project-462
 36.67 MW Bundled Solar Power Project by Fourth Partner Energy Private Limited, (FPEPL)
+
+https://www.ucarbonregistry.io/Registry/Generate?code=https%3A%2F%2Fwww.ucarbonregistry.io%2FRegistry%2FDetails%3Fid%3DQ5qGLB%252Fvq3dA%252BXYs2nBf1g%253D%253D&size=2
 _________
 36.67 MW Bundled Solar Power Project by Fourth
 Partner Energy Private Limited, (FPEPL).

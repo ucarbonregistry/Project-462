@@ -237,3 +237,38 @@ ____________
 Daishi Patona Private Limited/ D Mart (Zirakpur DC)/85.09/ 01-04-2022
 _____________
 Total 36,666.47 KWp
+________________
+The objective of the proposed project is to generate electricity using a clean and renewable source
+of energy i.e., solar radiation. The project activity displaces grid electricity consumption (e.g. grid
+import) at the user end. The project activity of 36.67 MW total capacity involves the installation and
+operation of a solar power plant in the 08 different states in Maharashtra, Madhya Pradesh, Tamil
+Nadu, Punjab, Odisha, Telangana, West Bengal and Gujarat in India.
+
+Based on the ex-ante estimate, this project is estimated to produce approximately 23,397.58 MWh
+of average renewable electricity annually, assuming PLF (Plant Load Factor) of 16.84%. The
+project utilizes Polycrystalline solar photovoltaic technology to generate environmentally friendly
+energy.
+Solar photovoltaic (PV) power generation is inherently environmentally friendly because it avoids
+the combustion of fossil fuels and the release of greenhouse gases (GHGs).
+
+Photovoltaic Cells: These cells, usually made of silicon, directly convert sunlight into electricity.
+When sunlight hits the cells, it excites electrons, generating a flow of direct current (DC) electricity.
+Solar Panels or Modules: These interconnected cells form solar panels or modules. These panels are
+commonly seen on rooftops or in solar farms. They capture sunlight and produce electricity.
+Working Principle: Sunlight energizes the electrons within the photovoltaic cells, creating an
+electric current. This DC electricity can be used directly for various applications.
+
+Power Delivery: To provide solar-generated electricity to PPA recipients, the energy must first be
+converted to alternating current (AC). This conversion, performed by inverters, ensures efficient
+and reliable power delivery directly to the off takers, bypassing the grid.
+
+When multiple PV panels are mounted on a frame, they form what is known as a PV Array. By
+displacing fossil fuel-based electricity generation in the regional grid, this project contributes to
+reducing GHG emissions. Solar PV offers clean, renewable energy, low operating costs, and job
+creation. It’s a crucial part of our transition to a sustainable energy future.
+The anticipated annual average and total yearly reduction in CO2 emissions resulting from the
+project activity are estimated to be 21,057 tCO2eq/yr. The actual emission reduction achieved
+during the initial CoU (crediting period) will be submitted as part of the first monitoring and
+verification process. As the project generates electricity using solar energy, a clean and renewable
+source, it has no adverse impact on the environment and actively contributes to climate change
+mitigation efforts.

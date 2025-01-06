@@ -25,8 +25,47 @@ UCR Protocol Standard Baseline Emission Factor
 Sectoral scopes 01 Energy industries (Renewable / Non-renewable
 Sources)
 
-Estimated amount of total GHG
-emission reductions 21,057 CoUs/year (21,057 tCO2eq/year)
+ISSUANCE DATE: 06/01/2025
+
+QTY: 123325 CoUs
+
+MP-01 Period: 01/08/2018-31/12/2023
+_________
+Serial Number: 0001-000001-000268-UCR-CoU-IN-462-01082018-31122018
+
+Vintage Year: 2018
+
+Quantity: 268
+_______________
+Serial Number: 0001-000269-006180-UCR-CoU-IN-462-01012019-31122019
+
+Vintage Year: 2019
+
+Quantity: 5912
+____________
+Serial Number: 0001-006181-023396-UCR-CoU-IN-462-01012020-31122020
+
+Vintage Year: 2020
+
+Quantity: 17216
+____________
+Serial Number: 0001-023397-048880-UCR-CoU-IN-462-01012021-31122021
+
+Vintage Year: 2021
+
+Quantity: 25484
+____________
+Serial Number: 0001-048881-082428-UCR-CoU-IN-462-01012022-31122022
+
+Vintage Year: 2022
+
+Quantity: 33548
+_________
+Serial Number: 0001-082429-123325-UCR-CoU-IN-462-01012023-31122023
+
+Vintage Year: 2023
+
+Quantity: 40897
 _________________
 PROJECT LOCATIONS
 _________________
